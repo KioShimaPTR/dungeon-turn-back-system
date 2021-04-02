@@ -1,0 +1,1 @@
+player tablosuna d_map_index int 11 not null default 0 sütun aç
